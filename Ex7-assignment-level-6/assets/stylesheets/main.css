@@ -188,10 +188,9 @@ li {
   margin: 5% auto;
   width: 100px;
   height: 100px;
-  background: white;
-  border: 5px solid #0a0d0e;
-  box-shadow: inset 0 0 0 10px #aed8e6;
-  box-shadow: 0 0 0 10px #ed8081;
+  background: #dafad4;
+  border: 5px solid #000000;
+  box-shadow: 0 0 0 10px #ed7f80, inset 0 0 0 10px #add8e6;
 }
 
 .box {
@@ -239,7 +238,7 @@ ul :nth-child(odd) {
 }
 
 .circle-1 {
-  background: #e2fbde;
+  background: #dafad4;
 }
 
 .circle-2 {
@@ -247,9 +246,9 @@ ul :nth-child(odd) {
 }
 
 .circle-3 {
-  background: #4f4f4f;
+  background: #000000;
 }
 
 .circle-4 {
-  background: #ed8283;
+  background: #ed7f80;
 }
