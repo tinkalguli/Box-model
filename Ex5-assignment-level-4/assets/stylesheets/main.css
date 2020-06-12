@@ -164,6 +164,7 @@ table {
 .first,
 .second {
   display: inline-block;
+  margin: 5%;
 }
 
 p {
