@@ -217,3 +217,9 @@ Total height = margin-top + width + margin-bottom = (20px + 200px + 20px) = 240p
 we can inspect window has HTML elements on the left side and the right side style related to the HTML elements. In Chrome, on the top left corner of the inspect window, you also get a button to select any element on the page. Clicking that button you can select any element on the page by clicking on it. Once you select an element on the page, all the styles related to that element will be revealed on the right side.
 
 It is very useful to see the box-model of any element . If we make a mistake then we can inspect the element and see the box-model.
+
+
+![image](https://www.wikihow.com/images/0/0a/Inspect-Element-on-Chrome-Step-7.jpg)
+
+
+![image](https://i.stack.imgur.com/CuQl7.jpg)
