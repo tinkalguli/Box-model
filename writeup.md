@@ -37,28 +37,38 @@ div {
  The padding property is applied to provide space around the content, within an element.
 
 > Padding for all inside (shorthand)
-=> div {
+```
+ div {
     padding: 20px;
   }
-
+```
 
 > Padding 20px is for top and bottom , padding 40px is for left and right [First value is for vertical padding and second value is for horizontal padding]
-=> div {
+
+```
+ div {
     padding: 20px 40px;
   }
+```
 
 > Padding in a clock wise direction , first one is for top , second one is for right , third one is for bottom and fourth one is for left Padding.
-=> div {
+
+```
+ div {
     padding: 10px 0 20px 30px;
   }
+```
 
 >In the longhand properties, we can set value for one side at a time.
-=>  div {
+
+```
+ div {
     padding-top: 10px;
     padding-right: 0;
     padding-bottom: 20px;
     padding-left: 30px;
   }
+```
 
 ### Border
 
